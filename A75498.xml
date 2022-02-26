@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apologie and vindication of the major part of the members of Parliament excluded from sitting and speaking for themselves and the Common-wealth. January 24. 1659.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75498</idno>
+            <idno type="STC">Wing A3542</idno>
+            <idno type="STC">Thomason E1013_18</idno>
+            <idno type="STC">ESTC R208095</idno>
+            <idno type="EEBO-CITATION">99867090</idno>
+            <idno type="PROQUEST">99867090</idno>
+            <idno type="VID">119380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119380)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apologie and vindication of the major part of the members of Parliament excluded from sitting and speaking for themselves and the Common-wealth. January 24. 1659.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, by Tho. Ratcliffe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119380:1"/>
+            <pb facs="tcp:119380:1" rendition="simple:additions"/>
+            <p>AN APOLOGIE AND VINDICATION Of the Major part of the <hi>Members</hi> of PARLIAMENT Excluded from ſitting and ſpeaking for themſelves and the <hi>COMMON-WEALTH.</hi>
+            </p>
+            <q>
+               <bibl>Iſa. 59.6.</bibl>
+               <p>Their webs ſhall not become Garments, neither ſhall they cover themſelves with their works. Their works are the works of Iniquity, and the act of vio<g ref="char:EOLhyphen"/>lence is in their hands.</p>
+            </q>
+            <q>
+               <bibl>Quint. Curt. lib. 4.</bibl>
+               <p>Nulla quaeſita ſcelere potentia diuturna eſt.</p>
+            </q>
+            <p>
+               <hi>January</hi> 24. 1659.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, by <hi>Tho. Ratcliffe,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119380:2"/>
+            <pb n="3" facs="tcp:119380:2"/>
+            <head>AN APOLOGIE And VINDICATION of the Members of PARLIAMENT excluded, &amp;c.</head>
+            <p>THe Members of this preſent Parliament, who have been eleven years kept out by a variety of force from ſitting and diſcharging the publick Truſt, to which they were elected: having obſerved that by Gods good providence the Officers and Souldiers of the Army, who have hitherto, as it were giver<g ref="char:punc">▪</g> Laws to all ci<g ref="char:EOLhyphen"/>vil Authority, had declared a ſubmiſſion thereunto, be<g ref="char:EOLhyphen"/>ing reduced to their duty by the affection and conjunction of the good people, with ſeveral declarations and endea<g ref="char:EOLhyphen"/>vours of General <hi>Monk;</hi> whileſt they ſuppoſed that the freedome of Parliament was thereby to be aſſerted, and re<g ref="char:EOLhyphen"/>ſtored; and that a general expectation and deſire in all places hath been expreſſe, that all the Members ſhould return to Vote in Parliament, according to the due Liber<g ref="char:EOLhyphen"/>ty and prividedges thereof: did many of them go to the Parliament Houſe, where their entrance was denyed by
+<pb n="4" facs="tcp:119380:3"/>Officers of the Army, and others appointed thereunto. And ſince they and the people having expected a Vindi<g ref="char:EOLhyphen"/>cation from thoſe Members now ſitting, and a Declara<g ref="char:EOLhyphen"/>tion againſt all future force. <milestone type="tcpmilestone" unit="unspecified" n="Jan. 5. 1659"/> There hath appeared only a printed Vote diſcharging all abſent Members from ſit<g ref="char:EOLhyphen"/>ting in Parliament, &amp;c. And, becauſe this looks like a judgement in Parliament, which hath been accounted a decree of the higheſt nature, and may ſeeme to be a ſen<g ref="char:EOLhyphen"/>tence againſt them as evil Doers; whileſt they are, and have been violently and illegally excluded from anſwer<g ref="char:EOLhyphen"/>ing for themſelves in their own places, according to the right of Parliaments; there are no means left for the vin<g ref="char:EOLhyphen"/>dication and ſatisfaction of them, and thoſe concern'd with them, but to ſtate the whole matter of fact (as far as it can be traced in the dark) and to reflect ſoberly and impartially upon the grounds, and the proceedings, by which ſo unheard of, and ſo dangerous a Preſident againſt all future Parliaments and Authorities is carried on and would be ſetled, That it may appear that no offence hath or can be reaſonably or formally charg'd upon the Mem<g ref="char:EOLhyphen"/>bers excluded, but that they did freely and reſolvedly, according to their Truſt, and Duty, and the courſe and practice of Parliaments give their Votes in Parliament; the Major part of the Houſe upon full and mature debate at the ſame time conſenting in the ſame Vote and Judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Decemb. 5 1648"/> 
+               <hi>The Parliament in</hi> 1648. <hi>well weighing the state of Affaires, after they had about ſix years contended by a War for publick Liberty; and duly conſidering that the end of War is Peace; did betake it ſelf to wayes tending thereunto, after mature deliberation<g ref="char:punc">▪</g> and the moſt ſolemn Debates the Houſe of Commons did paſſe a Vote, without diviſion upon the Question, in order to a ſettlement of
+<pb n="5" facs="tcp:119380:3"/>future Peace, which diſagreeing with the depraved Interests of ſome, who conducted the Army, they drew up a De<g ref="char:EOLhyphen"/>claration (fill'd with invectives againſt the Parliament and new and dangerous ſubtilties againſt Government) and having ſeduc'd the Army to their Councells, <milestone type="tcpmilestone" unit="unspecified" n="Decemb. 6, 7 1648"/> they did on the</hi> 6. <hi>and</hi> 7. <hi>of</hi> December 1648. <hi>contrary to the Orders and Com<g ref="char:EOLhyphen"/>mands of Parliament bring it up from the more diſtant Quarters and by a Guard ſet upon the Houſe, did ſhut out at that time more then a hundred Members, and impriſon'd one and fourty. Thoſe ſitting in the Houſe underſtanding ſome diſorder without doores, and that divers of their Mem<g ref="char:EOLhyphen"/>bers were detain'd there by Souldiers, did ſend their Ser<g ref="char:EOLhyphen"/>jeant to require their attendance on the Houſe; but the Officers would not permit it. <milestone type="tcpmilestone" unit="unspecified" n="Decemb. 6 1648"/> The ſame day Colonel</hi> Whal<g ref="char:EOLhyphen"/>ley <hi>and other Officers at the Bar of the Houſe delivered ſome Papers, propounding and demanding ſeveral things, among others, That the Members ſecluded ſhould not be re-admitted untill they ſhould acquit themſelves particularly of the ſaid Vote, and give cleare ſatisfaction to the judgments, of thoſe who then ſate in the Houſe and had diſſented, and the grounds of ſuch ſatisfaction be publiſhed to the King<g ref="char:EOLhyphen"/>dom.</hi>
+            </p>
+            <p>
+               <hi>The Houſe yet tender of the Interests of Parliament ap<g ref="char:EOLhyphen"/>point</hi> Mr. Pierpoint <hi>and others to confer with the Generall Officers of the Army, for diſcharging their Members; upon conference had with them, the Reſult was, that they re<g ref="char:EOLhyphen"/>fer'd to their former Papers. And though the Houſe did no<g ref="char:EOLhyphen"/>thing thereupon: Yet ſome perſons earneſtly inſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d divers dayes, that according to the practiſe and priviledge of Parlia<g ref="char:EOLhyphen"/>ments, no debate might be entertain'd until the Priviledge of the Parliament and Members were vindicated. And finding no redreſs they have ever ſince with-drawn themſelves from ſit<g ref="char:EOLhyphen"/>ing in the Houſe.</hi>
+            </p>
+            <pb n="6" facs="tcp:119380:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Decemb. 14 1648"/> Decemb. 14. <hi>There was a printed Paper<g ref="char:punc">▪</g> ſcattered abroad in the behalf it ſeems of the ſecluded Members, proteſting a<g ref="char:EOLhyphen"/>gainſt whatſoever ſhould be done in Parliament in their abſence: which both Houſes (there being about three or four Lords, a propor<g ref="char:EOLhyphen"/>tionable number to the Commons, then remaining in that Houſe) did fix upon the Members excluded; and then condemning the Papers as falſe, and ſcandalous; and declaring no Member to be capable to ſit in either Houſe untill they ſhould diſclaim it. Which Paper, was neither ſubſcribed nor owned by any of theſe Members, nor they heard, nor any thing like a legal or rational proceeding had therein: But this was in it ſelf ſo ſleight a judg<g ref="char:EOLhyphen"/>ment, upon grounds ſo unjuſt, and unparliamentary, that even themſelves took no notice of it afterward; nor doth it appear in any Entry upon the Books, that any of thoſe Members were put to diſclaim it, who were afterwards readmitted.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Decemb. 20 1648"/> 
+               <hi>On the</hi> 20. <hi>of</hi> December <hi>It was carried upon diviſion of the Houſe that the meſſage to the General and Councel of Officers for diſcharge of the Members ſhould be renewed. Upon the</hi> Queſtion <hi>the Negatives were</hi> 19. <hi>and the Affirmatives</hi> 32.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Ian. 11. 1648"/> 
+               <hi>Nevertheleſs on the</hi> 11. <hi>of</hi> January <hi>following, The Houſe having by ſeveral Votes, and Preparatives, and ſecret conſulta<g ref="char:EOLhyphen"/>tions alter'd their humours, (they without receiving any anſwer to their renewed meſſage, the Army inſiſting, and they complying) did approve the former anſwer of the Councill of Officers and the Papers of December.</hi> 6. <hi>brought from Colonel</hi> Whalley <hi>to the Houſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Februar. 1. 1658,"/> 
+               <hi>And now having declared a Union with the Councels of the Army, it was ordered,</hi> Feb. 1. <hi>That ſuch as ſhall diſſentor diſapprove the Vote of</hi> December <hi>the</hi> 5. <hi>ſhall repair to a Com<g ref="char:EOLhyphen"/>mittee appointed thereunto by the firſt of</hi> March; <hi>or be ſuſ<g ref="char:EOLhyphen"/>pended voting, or ſitting, till they diſſent or diſapprove, and give ſatisfaction of their Delay, and be reſtored by particular order of the Houſe.</hi>
+            </p>
+            <pb n="7" facs="tcp:119380:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="June 9. 1649"/> 
+               <hi>And the</hi> 9. <hi>of</hi> June <hi>following, a final Judgement was given: It being then ordered that none ſhould be capable to ſit that ſhould not give ſatisfaction to the Committee by the</hi> 30. <hi>of</hi> June, <hi>but that then, the Houſe ſhould proceed to the Elections of new Members in their Places.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="May 7. 1659"/> 
+               <hi>After five years reign by themſelves, and no Reſtauration, nor new Election; the Houſe was interrupted and diſcontinued untill May</hi> 7. 1659. <hi>when the Souldiers againe opening the doores the Secluded members attempted to goe into the Houſe, but were kept back by Gaurds, and afterward by a Vote, that ſuch Perſons heretofore Members of this Parliament, as have not taken the Engagement now upon the Roll in this Houſe ſhall not ſit till farther Order.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Decem. 27 1659"/> 
+               <hi>The Parliament ſeeming again to be reſtored from another vi<g ref="char:EOLhyphen"/>olence of the Army, made upon them in</hi> October: <hi>Divers ſe<g ref="char:EOLhyphen"/>cluded Members endeavoured again to go into the houſe, but were hindered by Officers of the Army, and others.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="Jan. 5. 1659"/> 
+               <hi>And on the</hi> 5. <hi>of</hi> January <hi>following, the doors were as it were ſealed up by the laſt, and moſt peremptory Vote,</hi> viz. <hi>That upon the whole mat<g ref="char:EOLhyphen"/>ter of the Report touching the abſent Members, the Parliament doth adjudge and declare, that the Members who ſtand diſcharg<g ref="char:EOLhyphen"/>ed from voting or ſitting as Members of this Houſe in the years</hi> 1648. <hi>and</hi> 1649. <hi>do stand duly diſcharged by Judgement of Parliament.</hi>
+            </p>
+            <p>By theſe ſeveral Briefs of thoſe Orders, and proceedings which are moſt material in this caſe, it eaſily appears, That nothing doth ariſe out of any Vote or Judgment, which ſhews that there hath been any judicial hearing either according to Law, Preſident, or Parliamentary proceeding: nor that any matter of conviction is to be found in the moſt artificial ſuggeſtions and pretences againſt theſe Members. Nor that any Crimes, but the being the Major part of the Parliament, and the adhearing to their duty
+<pb n="8" facs="tcp:119380:5"/>and Judgement in Parliament have been the ground or Argument of the ſeveral Votes or attempts againſt them. So that the ſum of All on both ſides amounts only to this, That the Houſe Votes, that becauſe They ſtand diſcharged, therefore they ſtand duly diſcharged; and the Vote of the people is in the Negative, who ge<g ref="char:EOLhyphen"/>nerally in the ſtreets, and Market places, and publick Aſſemblies (which are the ordinary Courts of the people) do cry out, That their Members ſtand not diſcharged, be<g ref="char:EOLhyphen"/>cauſe they are not duly diſcharged.</p>
+            <p>So that upon the whole matter, The Reſult of the fact ſhews it ſelf to be plainly thus, that ſome principal perſons in the Army, unhappily intruſted with too much power, in 1648. deſigning Empire to themſelves, and confuſion to all the parts of the oppoſing Government, ſecretly conſpired againſt that peace, which the Parliament was then providing for, and winding up, being brought on thereunto by all the Reaſon, and Arguments, that Re<g ref="char:EOLhyphen"/>ligion and Prudence could ſuggeſt. And becauſe no Councels, but the moſt deſperate, could effect things ſo ſtupendious as were plotted; the Parliament (as the chief Bulwark of the Common-wealth) was by them, and by their influence, aſſaulted with the utmoſt Indignity, Treachery and Violence; and about two parts of three of them (the number of Members being a chief part of the conſtitution of Parliaments) forc'd from their Seats, and many of them impriſon'd; whileſt a permiſſion was left to ſome to remain in that houſe; on condition that they ſhould diſavow their own Foundation, and Priviledges, and Votes, and Members, and joyn themſelves to thoſe new and hated Principles (which had been publickly in the preſence of men and Angels by the Parliament, and the whole people vowed, declared and proteſted againſt) and
+<pb n="9" facs="tcp:119380:5"/>which were now invented and contrived in the dark: for the ruine and the blowing up of that publick liberty, which had conſerv'd this People in moſt eminent felicity ſo many Ages; although it ſometimes required the extra<g ref="char:EOLhyphen"/>ordinary applications of Parliaments to redreſſe ſome evils which time and full proſperity, and the corruption of Miniſters of ſtate, do oft-times draw upon the beſt framed Governments.</p>
+            <p>The Members thus ſelected, and ſet apart, betake them<g ref="char:EOLhyphen"/>ſelves to the promoting of the Armies intereſts, as if they were now become their Repreſentatives onely, and con<g ref="char:EOLhyphen"/>tract all the ſeveral Authorities of theſe Nations into them<g ref="char:EOLhyphen"/>ſelves, and having veſted themſelves with Soveraignty, and cut off whatſoever grew in their way, they by the Votes, Orders and Artifice above mentioned, pretending a for<g ref="char:EOLhyphen"/>mal proceeding againſt the Major part of the Members, and an intention to elect others in their places, do ſeal up the Houſe to their own private uſe, whileſt they in ſcorne, and a reſolution not to be ſatisfied, call for a Satisfaction, and a Retraction of the Vote which themſelves ought on<g ref="char:EOLhyphen"/>ly to have acquieſſed in, as bound up by it; but to have made it good, as the Right of Parliament, againſt all con<g ref="char:EOLhyphen"/>tradiction or oppoſition whatſoever.</p>
+            <p>By theſe grounds, and beginnings, the Common-wealth of <hi>England</hi> hath been thus long interrupted, and the ſha<g ref="char:EOLhyphen"/>dow and name of Common-wealth (all the eſſential parts of it being condemn'd and vaniſhed) hath been ſet up in<g ref="char:EOLhyphen"/>ſtead thereof; which by neceſſary and unavoidable con<g ref="char:EOLhyphen"/>ſequence, eaſie to be foreſeen, hath induced as great a va<g ref="char:EOLhyphen"/>rietie of ſucceſſive Evils as any State ever ſaw and felt in ſo few years; for in this Interval the Ambition of him that firſt formed, and forced this change, did declare and ſhew it ſelf, and revenged the People in ſome meaſure,
+<pb n="10" facs="tcp:119380:6"/>upon thoſe who wholly againſt their will had en<g ref="char:EOLhyphen"/>groſſed their Liberties, and aſſum'd the Supream Authori<g ref="char:EOLhyphen"/>ty on the behalf only of ſuch as ſhould deſert all former Obligations, to adhere to the new, uncertain, impoſſible things which they pretended to. <milestone type="tcpmilestone" unit="unspecified" n="1653"/> For He, now explaining to what purpoſe He, and his Army had lent the Members his Power, did with doubted contempt, and contumely upon the Perſons of divers of them, as it were ſweep the Houſe, by turning them alſo out of it, and as far as in him lay, diſſolv'd ſo much of the Parliament as his former violence had reſerv'd until his own aſpirings, and the diſſatisfactions of the Nation might render it more willing to accept his ſingle, arbitrary and tyrannical Government, then what they had endured five years before. So that, at that inſtant, even themſelves, who before had thought fit to Vote force to be a good, and a Legittimate Expedient for the admitting their own Regency, underſtood now bet<g ref="char:EOLhyphen"/>ter the hardſhip and the iniquity of ſuch proceedings, and had remained like rubbiſh buried in the ruines of that Government, whoſe pillars they had pull'd down, if the good Providence and better Councels of the Almighty had not intangled the new Monarch in his own Policies, and cut him off in the finiſhings of his Grandeur; and afterwards given up his more innocent Succeſſor and his Family to be levelled and devoured by that Army, and almoſt by thoſe individual Perſons, whoſe equivocal principles, and various Apoſtacies, and breaches of Faith himſelf had taught them, and exerciſed them firſt to violate, then to annihilate that Authority, to which they had vowed, and were obliged by all the moſt ſolemn Tyes Divine and Humane.</p>
+            <p>And notwithſtanding the full experience thoſe few ex<g ref="char:EOLhyphen"/>pulſed and reſtored Members had of the tumultuary and unſteady Genius of that Army, who in <hi>May</hi> laſt had againe
+<pb n="11" facs="tcp:119380:6"/>conſpired againſt a Parliament, and invaded the Govern<g ref="char:EOLhyphen"/>ment of their own framing; and were apparantly con<g ref="char:EOLhyphen"/>ſtrained, for their own ſafety, and by their own incapa<g ref="char:EOLhyphen"/>city and diſtraction, ſuddenly to erect, or own ſome other kinde of Authority, which ſhould depend only upon theirs; and groaping, like blind men for the wall, they did as it were by chance light upon the recalling their Members; whom they had formerly ſelected, and made uſe of. <milestone type="tcpmilestone" unit="unspecified" n="1659"/> Yet theſe men again accepted a readmiſſion by themſelves, ſtill ſhutting out their fellow-Members: but the ſame Maſters, ha<g ref="char:EOLhyphen"/>ving a few months more tried their compliance, and finding them not wholly, or ſufficiently fitted to the purpoſes to which they were again deſigned.</p>
+            <p>This Army once more affronts this remainder of Autho<g ref="char:EOLhyphen"/>rity, which more ſolemnly then before themſelves had own'd, and bowed to, and having in their own fancy (ac<g ref="char:EOLhyphen"/>cording to the expreſſion of one of their Grandees) melted down all the ſeveral Powers, Authorities, and Perſons into a narrower Intereſt, and cloſer bodie, and projected a more refined and more exalted tyranny, that might better aſſure the Military Dominion, and the Reign of thoſe few to whom they had adjudg'd the Government of the Earth as a Right and Inheritance; they did awaken by ſo lowd a violence, and pretence, a General, who had happily hitherto been diſengaged from their Councels and their guilt, and had been long an object of their envy, who being at a ſecure and proper diſtance for this purpoſe gave the Alarm to the three Nations, and an invitation to betake themſelves to their ſeveral ſtrengths and defences; and himſelf drew out a well-form'd Army, capable of ballancing the Power, that without pretence of Commiſſions, had renewed their former out-rages of expelling and making War upon the Parliament: The whole people abhorring the continu<g ref="char:EOLhyphen"/>ation
+<pb n="12" facs="tcp:119380:7"/>and encreaſe of Force, did (as many as had remain<g ref="char:EOLhyphen"/>ed capable thereof) every where declare, or joyn together againſt the Army, and were ſo ſucceſſeful through the acti<g ref="char:EOLhyphen"/>vity of the Engliſh intereſts (which now united themſelves as againſt a common enemy) that without any other blood<g ref="char:EOLhyphen"/>ſhed, then ſome few Murthers in the City, intending there<g ref="char:EOLhyphen"/>by to terrifie and ſuppreſſe their courage) this Army, but even now defying even the name Parliament, and decree<g ref="char:EOLhyphen"/>ing it to be eradicated, was by a dejection in their own ſpi<g ref="char:EOLhyphen"/>rits and conſciences; accuſing and amaſing them; and a confuſion ariſing out of the folly and impiety of their Coun<g ref="char:EOLhyphen"/>cels, driven to conſult how they might preſerve themſelves by a Parliament (as the laſt Engliſh refuge for all Parties, and in all extreamities) and having vainly endeavoured by their own Power, and their great Seal, to qualifie and ſum<g ref="char:EOLhyphen"/>mon one; they fainted in the attempt, and by a weak and general deſertion and falling back from one another, Li<g ref="char:EOLhyphen"/>berty ſeemed to be reſtored to the Parliament: and it was become the general hope and expectation, that no violence ſhould be continued upon it; But that, as the Force in 1648. and 1653. and 1659. is of the ſame onely, and rebellious nature; So all men that can conſider things as they are, and what they tend to, ſhould equally abhorre it; whither as moral men, it being treachery and breach of Faith; or as Chriſtians, it being perjury, and againſt many Vowes to the high God; or as Engliſh men only, it being the eſtabliſher of Tyranny &amp; of Arbitrary Government; or as ſuch as are Lo<g ref="char:EOLhyphen"/>vers of themſelves, it bringing deſtruction upon ſuch perſons or Confederacies as ſuport themſelves by it againſt a whole people, that know not how to wear the yoak of the baſeſt ſervitude. And ſurely whoſoever ſhall take an account from Time (the beſt Informer) and ask the eleven years (in which Force hath reigned abſolutely by it ſelfe, and by
+<pb n="13" facs="tcp:119380:7"/>its own Laws only) what they have produc'd, they ſhall be anſwered. That the expulſion of many by a few, gave oportunity, and means, and encouragement to one to Vſurp, that ſuch uſurpation begat emulation in thoſe that had been his equals: That from thence did ſpring new Turns of State: that amidſt all theſe revolutions, the people have been commanded to believe that they were under a Com<g ref="char:EOLhyphen"/>mon-wealth, and that they enjoyed freedom, and publick advantages proportionable to what they have ſuffered and payed for, whileſt only the name and ſhadow of Liberty hath appeared abroad; and the intereſts of the Nations were ſuſpended, or purſued by contraries; and infinite Treaſure hath been ſpent to purchaſe Poverty, and Diſ<g ref="char:EOLhyphen"/>grace, the only Remainders of more then twenty Mil<g ref="char:EOLhyphen"/>lions. Whileſt above fifteen hundred Sail of Shipping, and the wealth and the intrinſick value of them, have been the prey of our Enemies: the publick Fleet having had enough to defend the ſeveral intruding Governments againſt the pretences of others, and the diſcontents of the unſatisfied People. Whileſt Trade it ſelf Forraigne and Domeſtick, Manufactures and Traffick, is inſenſibly ſtollen from this Common-wealth; being ſubtilly invited, and ingroſſed by our neighbours. Whileſt every Countie, City and Bur<g ref="char:EOLhyphen"/>rough (not under awe and force) every degree and ſocie<g ref="char:EOLhyphen"/>ty of men, the whole Nobilitie, the body of the Gentry, and the Commons, and indeed almoſt all ſuch as were inga<g ref="char:EOLhyphen"/>ged in the War upon the Parliaments account before 1648. do with one voice and conſent as far as they dare, being kept under by an iron hand, preſſe and ſollicite the Re<g ref="char:EOLhyphen"/>ſtauration of a full Freedom to the Parliament, whereby all Intereſts may be conſidered and provided for: and ſuch courſes be proſecuted by common conſent, as may raiſe mony to ſatisfie the ſouldery, even with ſatisfaction to thoſe
+<pb n="14" facs="tcp:119380:8"/>who will be then as ready to give, as others are now to levie it by Force; and thoſe moderate, and equal, and healing Councels may (by the good bleſſing of God) be ſo happily applyed to, that Faction may be extinguiſhed; or at leaſt rendred more uncapable of diſturbing that ſettle<g ref="char:EOLhyphen"/>ment, which upon free Debates ſhall appear to be moſt proper and neceſſary for theſe diſtracted Nations.</p>
+            <p>This being the State of the whole matter, as it appears out of the Records and the obſervations of this laſt eleven years, and the preſent reſentments of the people as they relate to the ſecluded Mmbers, and the Force ſtill continued. It is not to be doubted, but ſome Countrys, or ſome Numbers of Men (not obnoxious) will ſuddenly teſtifie againſt them, if they have unfaithfully repreſented any thing herein: But it ought no way to diſcourage them from inſiſting upon their Right to ſit in Parliament; whileſt theſe only ſhall ſuppreſſe their Claime, and oppoſe their Admiſſion, whoſe particular duty it is to endeavour it, and who may bee driving on ſuch deſignes, as neither will indure free and equall debates; nor comply with the Sence of thoſe they would ſeem to repreſent. And although ſome are arrived now to ſuch a height of Confidence that the word Free-Parliament ſounds as dangerouſly to their Eares, as heretofore to the greateſt Enemies of it, and is countenanced accordingly; yet ſurely ſuch ſober Conſi<g ref="char:EOLhyphen"/>derations as are herein offered in behalf thereof, will make ſome impreſſions for good upon the ſeverall Intereſts concerned in it; eſpecially upon every Perſon of Honour and Truſt to whom God hath given an opportunity to vindi<g ref="char:EOLhyphen"/>cate publick Liberty, that he may not draw back his hand, and by doing it partially and imperfectly be guilty of lea<g ref="char:EOLhyphen"/>ving the ſame kinde, though not the ſame meaſure of vi<g ref="char:EOLhyphen"/>olence upon the Parliament and the people. For what perſon ſoever intruſted, and enabled to deliver, and de<g ref="char:EOLhyphen"/>fend
+<pb n="15" facs="tcp:119380:8"/>a people; ſhall apply himſelfe only ſo far to their relief and redreſs, as his own private conceit, or Inter<g ref="char:EOLhyphen"/>eſt doth lead him; and doth it not according to common Right, and the cry and generall deſire of his oppreſſed Countrymen (eſpecially whileſt they ask nothing but what their known Laws and Liberties doe allow and enjoyne) doth but uſe the peoples ſword againſt them; and doth, at beſt, no more then correct ſome extravagancies in a facti<g ref="char:EOLhyphen"/>on, whoſe inconſiſtencie with reaſon and humane ſociety might in a ſhort time have diſolv'd it, or made it mold<g ref="char:EOLhyphen"/>er into nothing, whileſt the forming and aſſiſting thoſe looſer parts, and the giving ſome method and reputation to thoſe wild proceedings, doth tend only to the ſtrength<g ref="char:EOLhyphen"/>ning thereof, and as much as in him lyes, to the fitting and faſtning thoſe fetters which even of themſelves were falling off.</p>
+            <p>And ſurely it may become even thoſe who have laid hold on the Helm, and willfully carryed us to ſea, far off among Rocks and quick-ſands, upon Coaſts ſtrange, and unknown; in time to Conſult their better Reaſon, and remember that themſelves alſo are but Paſſengers and muſt be loſt and ſwallowed up at laſt, by the ſame ſhipwrack with the publick. For whatſoever Power or Councill wants Common conſent, and Reverences and Authority, and Principles, and Union, and well or<g ref="char:EOLhyphen"/>dered Armies, and Treaſure, and Alleys; and in brief all thoſe requiſites which tend to the ſupport of a po<g ref="char:EOLhyphen"/>litick Body, and great domminions; may for ſome time vexe the people, and keep them under, but can never ſubſiſt in a condition of Honour and Security. And that warme deſire of Liberty, which is now ſaid to bee mad<g ref="char:EOLhyphen"/>neſs in thoſe that affect it, and a thing noxious and un<g ref="char:EOLhyphen"/>ſeaſonable and unfit for this generation; will (it may be
+<pb n="16" facs="tcp:119380:9"/>well feared) ere long flame into furie, and make them rather chuſe to fall Sacrifices to the Publick, in at<g ref="char:EOLhyphen"/>tempting its Deliverance, then to endure tamely farther Eſ<g ref="char:EOLhyphen"/>ſayes of inforced Government, and ſubmit their necks to every yoake that the Luſt, and wantonneſſe, and ſplene of a few of their equals (the beſt they can pretend to) ſhall think fit to put upon them and become thereby lyable to every miſchief and inconveniene that muſt, and ſhall ne<g ref="char:EOLhyphen"/>ceſſarily ariſe, and continue from Councels ſo founded and depoſed. For whatſoever Evill hath been acted, and appeared ſince, 1648. muſt as certainly returne upon us, in as many, or more or worſe Revolutions, as that the ſame Cauſes do naturally produce the ſame effects.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119380:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
